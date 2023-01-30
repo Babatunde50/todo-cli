@@ -10,5 +10,3 @@ The included tools are:
 - [x] Delete Todo
 
 ## Installation
-
-`go get -u github.com/Babatunde50/toolbox`
